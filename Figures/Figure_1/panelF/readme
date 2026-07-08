@@ -1,1 +1,2 @@
-#The values (log2fold and padj) plotted are the output of the DESeq2 pipeline from a pairwise comparison between an ESC wt and an NPC wt sample. 
+#The plotted values (log2fold) and the padj are the output of the DESeq2 pipeline from a pairwise comparison between an ESC wt and an NPC wt sample.
+#The standard DEseq2 analysis is run on the data from the Supplemental Table 9, which represents raw reads of count-normalized cHiC replicates.
