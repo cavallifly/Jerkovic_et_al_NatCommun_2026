@@ -1,2 +1,5 @@
-#The plotted values (log2fold) and the padj are the output of the DESeq2 pipeline from a pairwise comparison between an ESC wt and an NPC wt sample.
-#The standard DEseq2 analysis is run on the data from the Supplemental Table 9, which represents raw reads of the count-normalized cHiC replicates.
+#
+The plotted values (log2fold) and the padj are the output of the DESeq2 pipeline from a pairwise comparison between an ESC wt and an NPC wt sample.
+The standard DEseq2 analysis is run on the data from the Supplemental Table 9, which represents raw reads of the count-normalized cHiC replicates.
+
+The loop annotation file connects the loop number (i.e., loop22) with its custom annotation (i.e., constant). Custom annotations are provided only for the loops of interest, which are visualised in the Figures.
