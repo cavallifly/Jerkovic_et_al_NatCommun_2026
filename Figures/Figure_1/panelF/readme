@@ -1,0 +1,1 @@
+The values (log2fold and padj) plotted are the output of the DESeq2 pipeline from a pairwise comparison between an ESC wt and an NPC wt sample. 
