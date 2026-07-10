@@ -1,3 +1,4 @@
+Primer	Sample_name	Ct	Ct_mean	St.Dev	Ct_adjusted_for_input	Ct(adj.IN)-Ct(ChIP)	log2(Ct(adj.IN)-Ct(ChIP))	%INPUT	Qty_INPUT_MEAN	St.dev.of_INPUT%
 -ctrl	INPUT_NPC_wt_R1_Pax6	20.66									
 -ctrl	INPUT_NPC_wt_R1_Pax6	20.78									
 -ctrl	INPUT_NPC_wt_R1_Pax6	20.82		20.75333333	0.067986927	14.10933333					
