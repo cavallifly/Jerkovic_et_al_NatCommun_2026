@@ -4,4 +4,4 @@ The standard DEseq2 analysis is run on the data from the Supplemental Table 9, w
 
 - The "loop_annotation" file connects the loop number (i.e., loop22) with its custom annotation (i.e., constant). Custom annotations are provided only for the loops of interest, which are visualised in the Figures and Extended Data Figures.
 - res.ESCwt_NPCwt_10kb_bins_21_03_2024.tsv file is the full DEseq2 output file from loop quantification at the Zfp608 TAD.
-- "ESCwt_NPCwt_lolipop_input" file is the input file used to make the panelF graph. padj values for this panel come from res.ESCwt_NPCwt_10kb_bins_21_03_2024.tsv file for each loop. 
+- "ESCwt_NPCwt_lolipop_input" file is the input file used to make the panelF graph. log2FC and padj values for this panel come from res.ESCwt_NPCwt_10kb_bins_21_03_2024.tsv file for each loop. 
