@@ -1,0 +1,5 @@
+Plotted log2fold values (and the corresponding padj) are the output of the DESeq2 pipeline from a pairwise comparison between an NPC wt and an NPC Δprom sample.
+The standard DEseq2 analysis is run on the data from the Supplemental Table 9, which represents raw reads of the count-normalized cHiC replicates.
+
+- "res.NPCwt_NPCdprom_10kb_bins_21_03_2024.tsv" file is the full DEseq2 output file from loop quantification at the Zfp608 TAD.
+- "NPCwt_NPCdprom_lolipop_input" file is the input file used to make the panelF graph. log2FC and padj values for this panel are from "res.NPCwt_NPCdprom_10kb_bins_21_03_2024.tsv" file. 
