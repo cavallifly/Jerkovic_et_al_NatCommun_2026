@@ -6,4 +6,5 @@ qPCR was performed for primers:
 
 In Figure 3e only results for exon6 were shown.
 
-The qPCR results used as input to generate the graph in panelE are in "ZFP608_ddCt_values_dC2-C3-AC2C3_for_anova.bed" file in this folder.
+The qPCR results (ddCt values) used as input to generate the graph in panelE are in "ZFP608_ddCt_values_dC2-C3-AC2C3_for_anova.bed" file in this folder.
+The statistical tests are in "ZFP608_ddCt_values_dC2-C3-AC2C3_for_anova.out" file.
