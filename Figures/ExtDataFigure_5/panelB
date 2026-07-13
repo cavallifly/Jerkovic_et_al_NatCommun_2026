@@ -1,1 +1,7 @@
-
+bigwig tracks displayed in this panel are available as follows: 
+- This study:                      GSE261222 (CTCF ChIP-seq; NPCs)
+- Kim et al., 2021:                GSM4137881 (BRD4 ChIP-seq; cortical neurons)
+- Monahan et al., 2017 and 2019:   GSM2454883 and GSM3058885 (LHX2 and LDB1 ChIP-seq; mature olfactory neurons)
+- Velasco et al., 2017:            GSM2124246 and GSM2124210 (LHX3 and NGN2 ChIP-seq; neuronal-overexpressing factors embryoid bodies)
+- Van den Berg et al., 2017:       ERR1173515 and ERR1173516 (NIPBL ChIP-seq; NPCs)
+- Van den Berg et al., 2017:       ERR1173517 and ERR1173518 (ZFP609 ChIP-seq; NPCs)
