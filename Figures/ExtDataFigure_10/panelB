@@ -1,0 +1,2 @@
+PanelB is generated directly from the Deseq2 pipeline, from where the Normalized counts (y-axis) and padj values are extracted.
+DEseq2 is run with counts supplied in Supplementary Table 2, Sheet 2 as input.
