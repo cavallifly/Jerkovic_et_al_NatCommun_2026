@@ -1,0 +1,13 @@
+Input data to generate ExtDataFigure_7 PanelA are in folder:
+/ExtDataFigure_7/Raw_data
+containing ESC_WT (Rep1, Rep2) and NPC_WT (Rep1, Rep2).
+ 
+
+Input data to generate ExtDataFigure_7 PanelB, PanelC, PanelD, and PanelF  are similar to the ones used in Figure 4.
+They are stored in folders:
+
+/Figure_4/Raw_data
+containing NPC_wt (rep1, rep3) and NPC_dA (rep1, rep2, rep3)
+and
+/Figure_4/Aligned_data/ 
+containing NPC_WT_AfterAPC and NPC_dA_AfterAPC (after Procruste Analysis)
