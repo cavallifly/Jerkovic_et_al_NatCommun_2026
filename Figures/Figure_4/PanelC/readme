@@ -1,0 +1,5 @@
+PanelC is generated with the script "NPC_WT_Cumulative_plot_clean.R" for WT condition.
+
+The same script is used to generate dA but the script must be adapted for dA by changing the import of the raw data to reflect the dA file and not WT.
+
+Plots were generated like this for both conditions, merged and modified with Inkscape.
