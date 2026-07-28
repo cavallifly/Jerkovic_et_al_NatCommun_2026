@@ -1,16 +1,11 @@
 Raw data were aligned with the scripts: 
-
 1)   ProcrusteAnalysis_NPC_WT.R for WT condition
-
 and
-
 2)   ProcrusteAnalysis_NPC_dA.R for dA condition
 
-
-Aligned data are in the folder /Figure_4: 
-
-/Aligned_data/NPC_WT
-
+Aligned data are in the folder /Figure_4/Aligned_data/ and named as: 
+1) NPC_dA_AfterAPC.csv
 and
+2) NPC_WT_AfterAPC.csv
 
-/Aligned_data/NPC_dA
+
