@@ -1,11 +1,11 @@
-Raw data were aligned with the scripts: 
+Raw data were aligned with the scripts located in the folder /Figure_4/Aligned_data/Scripts/ and named as follows: 
 1)   ProcrusteAnalysis_NPC_WT.R for WT condition
 and
 2)   ProcrusteAnalysis_NPC_dA.R for dA condition
 
 Aligned data are in the folder /Figure_4/Aligned_data/ and named as: 
-1) NPC_dA_AfterAPC.csv
+1) NPC_dA_AfterAPC.csv for data for the dA mutant condition
 and
-2) NPC_WT_AfterAPC.csv
+2) NPC_WT_AfterAPC.csv for data for the wt condition
 
 
