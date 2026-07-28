@@ -1,0 +1,5 @@
+ExtDataFigure_7 PanelB was generated with the script "NPC_WT_Cumulative_plot_clean.R" for WT condition.
+
+The script must be adapted for dA by changing the import of the raw data to dA data instead of WT to generate the same data for the mutant dA.
+
+Plots generated for both conditions were merged and modified with Ink.
