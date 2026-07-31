@@ -1,0 +1,32 @@
+ESC_PCA
+                      PC1       PC2     group condition         name
+ESC_wt_R1    -11.11967382 -5.136256    ESC_wt    ESC_wt    ESC_wt_R1
+ESC_wt_R2    -11.39635511 -4.720354    ESC_wt    ESC_wt    ESC_wt_R2
+ESC_dA_R1     -1.80676448  1.178738    ESC_dA    ESC_dA    ESC_dA_R1
+ESC_dA_R2     -1.78075079  1.142716    ESC_dA    ESC_dA    ESC_dA_R2
+ESC_dB_R1      2.71882157  5.281546    ESC_dB    ESC_dB    ESC_dB_R1
+ESC_dB_R2      2.78207605  5.355017    ESC_dB    ESC_dB    ESC_dB_R2
+ESC_dAB_R1     1.75421216  6.042207   ESC_dAB   ESC_dAB   ESC_dAB_R1
+ESC_dAB_R2     1.72280670  6.085682   ESC_dAB   ESC_dAB   ESC_dAB_R2
+ESC_dprom_R1  -1.86285286 -1.573886 ESC_dprom ESC_dprom ESC_dprom_R1
+ESC_dprom_R2  -1.90619631 -1.589312 ESC_dprom ESC_dprom ESC_dprom_R2
+ESC_polyA_R1   0.04492246  1.867151 ESC_polyA ESC_polyA ESC_polyA_R1
+ESC_polyA_R2   0.13337651  1.839455 ESC_polyA ESC_polyA ESC_polyA_R2
+ESC_Pax6_R1   10.34561419 -7.919468  ESC_Pax6  ESC_Pax6  ESC_Pax6_R1
+ESC_Pax6_R2   10.37076371 -7.853236  ESC_Pax6  ESC_Pax6  ESC_Pax6_R2
+
+
+NPC_PCA
+                     PC1        PC2     group condition         name
+NPC_wt_R1     -7.3891070 -1.5308403    NPC_wt    NPC_wt    NPC_wt_R1
+NPC_wt_R2     -7.3804245 -1.6050136    NPC_wt    NPC_wt    NPC_wt_R2
+NPC_dA_R1     -3.0863445  0.5058482    NPC_dA    NPC_dA    NPC_dA_R1
+NPC_dA_R2     -3.3202040  0.3213679    NPC_dA    NPC_dA    NPC_dA_R2
+NPC_dB_R1      7.7657902 -7.6523732    NPC_dB    NPC_dB    NPC_dB_R1
+NPC_dB_R2      7.7851878 -7.6144589    NPC_dB    NPC_dB    NPC_dB_R2
+NPC_dAB_R1    14.8761772  0.8822239   NPC_dAB   NPC_dAB   NPC_dAB_R1
+NPC_dAB_R2    14.7850959  0.8436900   NPC_dAB   NPC_dAB   NPC_dAB_R2
+NPC_dprom_R1  -0.4184355  7.8145787 NPC_dprom NPC_dprom NPC_dprom_R1
+NPC_dprom_R2   4.0582965 10.4507099 NPC_dprom NPC_dprom NPC_dprom_R2
+NPC_polyA_R1 -14.0504469 -1.2277248 NPC_polyA NPC_polyA NPC_polyA_R1
+NPC_polyA_R2 -13.6255852 -1.1880079 NPC_polyA NPC_polyA NPC_polyA_R2
