@@ -4,4 +4,4 @@ Input Data to generate panelB are in folder:
 using the # xFC1 # yFC1 # zFC1 # xFC2 # yFC2 # zFC2 # xFC3 # yFC3 # zFC3 # columns from the input files (with FC1 = P, FC2 = A, FC3 = B) to measure pairwise distances between the loci.
 
 How to:
-Run the script Figure_4b_IJ.R located in the Figure_4/PanelB folder to recreate the panelB and its related statistics.
+Run the script Figure_4b_IJ.R located in the Figure_4/PanelB folder to recreate panelB and its related statistics.
