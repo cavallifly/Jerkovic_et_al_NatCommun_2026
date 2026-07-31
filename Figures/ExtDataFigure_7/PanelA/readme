@@ -1,7 +1,7 @@
 Input Data to generate ExtDataFigure_7 PanelA are in folder:
 
 /ExtDataFigure_7/Raw_data
-
 using the # xFC1 # yFC1 # zFC1 # xFC2 # yFC2 # zFC2 # xFC3 # yFC3 # zFC3 # columns from the input files (with FC1 = P, FC2 = A, FC3 = B) to measure pairwise distances between the loci.
- 
-Boxplot (using R:ggplot2) representing the pairwise distance distributions between P-A, A-B and P-B in ESC wt and NPC wt, using a Cut-Off distance = 1500 nm. 
+
+How to:
+Run the script ExtDataFigure_7a_IJ.R located in the /ExtDataFigure_7/PanelA folder to recreate panelA graph and its related statistics.
