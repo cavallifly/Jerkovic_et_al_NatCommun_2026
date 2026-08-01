@@ -10,3 +10,6 @@ https://github.com/QuentinSzabo/3DFISHdistances
 ************
 
 The code currently developed at the [Cavalli Lab](https://www.igh.cnrs.fr/en/research/departments/genome-dynamics/chromatin-and-cell-biology) with the contributions of Marco Di Stefano, Hadrien Reboul, and Giorgio L. Papadopoulos.
+
+
+This repository has been archived and is available at: https://doi.org/10.5281/zenodo.21737547
